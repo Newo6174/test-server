@@ -22,5 +22,5 @@ A simple server for the BGL pre-interview task, bulit with Go
 
 ## Special Thanks
 >I want to say thank you to the staffs in BGL who developed this task. 
->I am a beginner in API and this task has made me learn a lot about API from developing this task.
+>I am a beginner in API and I've learnt a lot from this task.
 >I am very appreciated for this great opportunity :)
