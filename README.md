@@ -14,7 +14,7 @@ A simple server for the BGL pre-interview task, bulit with Go
     
 **2. Run the server on port 80**
 
-    go run server.go
+    go run main.go
     
 **3. Check if the server is running**
 
