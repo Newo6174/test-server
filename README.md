@@ -12,7 +12,7 @@ A simple server for the BGL pre-interview task, bulit with Go
     go get https://github.com/Newo6174/test-server
     cd test-server
     
-**2. Run the server on port 8080**
+**2. Run the server on port 80**
 
     go run server.go
     
@@ -24,11 +24,11 @@ A simple server for the BGL pre-interview task, bulit with Go
 
 #### ADD
 
-    curl -H "Content-Type: application/json" -d "{\"key\": \"Hello\", \"value\": \"World\"}" http://127.0.0.1:8080/add
+    curl -H "Content-Type: application/json" -d "{\"key\": \"Hello\", \"value\": \"World\"}" http://127.0.0.1:80/add
 
 #### LIST
 
-    curl http://127.0.0.1:8080/list
+    curl http://127.0.0.1:80/list
 
 ## Special Thanks
 >I just want to say thank you to the staffs in BGL who developed this task. 
