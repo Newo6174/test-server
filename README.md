@@ -19,6 +19,8 @@ A simple server for the BGL pre-interview task, bulit with Go
 **3. Check if the server is running**
 
     curl 127.0.0.1
+    //For Docker, you shall find the ip that the docker is using with this instead of 127.0.0.1:
+    docker-machine ip default
 
 **4. Query the endpoints**
 
