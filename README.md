@@ -20,6 +20,18 @@ A simple server for the BGL pre-interview task, bulit with Go
 
     curl 127.0.0.1:8080
 
+**4. Query the endpoints**
+
+- ADD
+
+
+    curl -H "Content-Type: application/json" -d "{\"key\": \"Hello\", \"value\": \"World\"}" http://127.0.0.1:8080/add
+
+- LIST
+
+
+    curl http://127.0.0.1:8080/list
+
 ## Special Thanks
 >I just want to say thank you to the staffs in BGL who developed this task. 
 >I am a beginner in API and I've learnt a lot from this task.
