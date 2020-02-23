@@ -21,6 +21,6 @@ A simple server for the BGL pre-interview task, bulit with Go
     curl 127.0.0.1:8080
 
 ## Special Thanks
->I want to say thank you to the staffs in BGL who developed this task. 
+>I just want to say thank you to the staffs in BGL who developed this task. 
 >I am a beginner in API and I've learnt a lot from this task.
 >I am very appreciated for this great opportunity :)
