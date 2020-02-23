@@ -9,10 +9,10 @@ A simple server for the BGL pre-interview task, bulit with Go
 ## How to run this
 **1. Clone This Repo**
 
-    go get -u github.com/Newo6174/test-server
+    git clone https://github.com/Newo6174/test-server
     cd test-server
     
-**2. Run the server on port 80**
+**2. Run the server**
 
     go run main.go
     
