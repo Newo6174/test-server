@@ -58,7 +58,6 @@ func listObjects(w http.ResponseWriter, req *http.Request) {
 		if err != nil {
 			panic(err)
 		}
-		typeJs := reflect.TypeOf(js).Kind()
 		w.Write(js)
 }
 
