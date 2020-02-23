@@ -22,13 +22,11 @@ A simple server for the BGL pre-interview task, bulit with Go
 
 **4. Query the endpoints**
 
-- ADD
-
+#### ADD
 
     curl -H "Content-Type: application/json" -d "{\"key\": \"Hello\", \"value\": \"World\"}" http://127.0.0.1:8080/add
 
-- LIST
-
+#### LIST
 
     curl http://127.0.0.1:8080/list
 
